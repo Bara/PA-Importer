@@ -3,7 +3,7 @@
 	// servers to port
 	$servers = array(
 		"0.0.0.0:25015", // interface/steamworks fail?
-		"1.2.3.4:25015" // old server ip:po
+		"1.2.3.4:25015" // old server ip:port
 	);
 
 	$host      = "";
